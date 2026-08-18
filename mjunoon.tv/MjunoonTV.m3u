@@ -1,115 +1,115 @@
 #EXTM3U
 # Mjunoon.tv Playlist – Available in only Pakistan
 # Playlist created by @kgkaku
-# Generated on: 2026-08-18 12:24:56
+# Generated on: 2026-08-18 18:22:53
 # Total Channels: 36, Active Channels: 36
 
 #EXTINF:-1 tvg-logo="https://www.mjunoon.tv/uploads/categories/new/Madni-TV-mjunoon.png", Madani Channel HD
-https://cdn5.mjunoon.tv:8087/web/Madni-121/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDEyOjI0OjIzIFBNJmhhc2hfdmFsdWU9MGtkTlVSZXYxRjFnVjlGbTJNbDlUdz09JnZhbGlkbWludXRlcz0x
+https://cdn5.mjunoon.tv:8087/web/Madni-121/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDY6MjI6MjQgUE0maGFzaF92YWx1ZT11MzU5S3Y2bXRqVm5UZmtORENsTkZBPT0mdmFsaWRtaW51dGVzPTE=
 
 #EXTINF:-1 tvg-logo="https://www.mjunoon.tv/uploads/categories/new/Quran-Tv-mjunoon.png", Saudi Quran Makkah TV HD
-https://cdn5.mjunoon.tv:8087/web/SaudiQuran-142/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDEyOjI0OjI0IFBNJmhhc2hfdmFsdWU9Snp5aGJYNWNUWjNxTEd0NW9QZVU5UT09JnZhbGlkbWludXRlcz0x
+https://cdn5.mjunoon.tv:8087/web/SaudiQuran-142/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDY6MjI6MjUgUE0maGFzaF92YWx1ZT1uSExYeUxaVkRTZ2ZvQkNXVVZWaEdBPT0mdmFsaWRtaW51dGVzPTE=
 
 #EXTINF:-1 tvg-logo="https://www.mjunoon.tv/uploads/categories/new/Sunnah-TV-mjunoon.png", Saudi Sunnah Madinah TV HD
-https://cdn5.mjunoon.tv:8087/web/SaudiSunnah-141/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDEyOjI0OjI1IFBNJmhhc2hfdmFsdWU9aXVLeU1ySlFjL2kwRXQ1N0lNRFFtQT09JnZhbGlkbWludXRlcz0x
+https://cdn5.mjunoon.tv:8087/web/SaudiSunnah-141/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDY6MjI6MjYgUE0maGFzaF92YWx1ZT1nNElsVXlWQ1NyMXRETnlKRURscStBPT0mdmFsaWRtaW51dGVzPTE=
 
 #EXTINF:-1 tvg-logo="https://www.mjunoon.tv/uploads/categories/new/TRT-World-mjunoon.png", TRT World
-https://cdn5.mjunoon.tv:8087/web/TRTENG-153/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDEyOjI0OjI2IFBNJmhhc2hfdmFsdWU9Y2lZZ1FRSXhSdUJna3lzQTRuRmxIUT09JnZhbGlkbWludXRlcz0x
+https://cdn5.mjunoon.tv:8087/web/TRTENG-153/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDY6MjI6MjcgUE0maGFzaF92YWx1ZT1uU3FGTUh5NVVXRjdGUGZmWkJBRWx3PT0mdmFsaWRtaW51dGVzPTE=
 
 #EXTINF:-1 tvg-logo="https://www.mjunoon.tv/uploads/categories/new/samaa-tv-mjunoon.png", Samaa TV
-https://cdn5.mjunoon.tv:8087/web/SAMAA-173/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDEyOjI0OjI3IFBNJmhhc2hfdmFsdWU9MkhsVTQ3MklHdUNUZlpHRU05Z1JkUT09JnZhbGlkbWludXRlcz0x
+https://cdn5.mjunoon.tv:8087/web/SAMAA-173/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDY6MjI6MjggUE0maGFzaF92YWx1ZT1nUjg2akVPUXE2Vjl1ZXpVNk1Ja2Z3PT0mdmFsaWRtaW51dGVzPTE=
 
 #EXTINF:-1 tvg-logo="https://www.mjunoon.tv/uploads/categories/new/Urdu-1-mjunoon.png", URDU 1
-https://cdn5.mjunoon.tv:8087/web/Urdu1-158-4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDEyOjI0OjI4IFBNJmhhc2hfdmFsdWU9ZzN2Zm9COHZTMWZBWFFpNitDcW55Zz09JnZhbGlkbWludXRlcz0x
+https://cdn5.mjunoon.tv:8087/web/Urdu1-158-4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDY6MjI6MjggUE0maGFzaF92YWx1ZT1nUjg2akVPUXE2Vjl1ZXpVNk1Ja2Z3PT0mdmFsaWRtaW51dGVzPTE=
 
 #EXTINF:-1 tvg-logo="https://www.mjunoon.tv/uploads/categories/new/KTN-news-mjunoon.png", KTN News
-https://cdn5.mjunoon.tv:8087/web/KTNNews-151/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDEyOjI0OjI5IFBNJmhhc2hfdmFsdWU9VHdYcjAwcG5lbFJSUTZQa2NsMFZjdz09JnZhbGlkbWludXRlcz0x
+https://cdn5.mjunoon.tv:8087/web/KTNNews-151/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDY6MjI6MjkgUE0maGFzaF92YWx1ZT0ySm9zN0JJT2VFVWxZZjQwbFVLeVBnPT0mdmFsaWRtaW51dGVzPTE=
 
 #EXTINF:-1 tvg-logo="https://www.mjunoon.tv/uploads/categories/new/cartoon-network-logo-mjunoon.png", Cartoon Network
-https://cdn5.mjunoon.tv:8087/web/cartoon-network-87/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDEyOjI0OjI5IFBNJmhhc2hfdmFsdWU9VHdYcjAwcG5lbFJSUTZQa2NsMFZjdz09JnZhbGlkbWludXRlcz0x
+https://cdn5.mjunoon.tv:8087/web/cartoon-network-87/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDY6MjI6MzAgUE0maGFzaF92YWx1ZT1xVmdYZ1RGSDNodmJtQ2hMNmlTS0hRPT0mdmFsaWRtaW51dGVzPTE=
 
 #EXTINF:-1 tvg-logo="https://www.mjunoon.tv/uploads/categories/new/Abb-Takk-mjunoon.png", Abb Takk News
-https://cdn5.mjunoon.tv:8087/web/AbbTakNews-133/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDEyOjI0OjMwIFBNJmhhc2hfdmFsdWU9NWVOZHlVTXJRcDFvang1U29RYnplUT09JnZhbGlkbWludXRlcz0x
+https://cdn5.mjunoon.tv:8087/web/AbbTakNews-133/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDY6MjI6MzEgUE0maGFzaF92YWx1ZT1UV2w0bDFlRFl2Sms1b3hzZlRqaGVBPT0mdmFsaWRtaW51dGVzPTE=
 
 #EXTINF:-1 tvg-logo="https://www.mjunoon.tv/uploads/categories/new/abn-news-live-mjunoon.png", ABN NEWS
-https://cdn5.mjunoon.tv:8087/web/ABN-161/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDEyOjI0OjMxIFBNJmhhc2hfdmFsdWU9TEhmcERaWmJFUjQxV1MwN2dWSldnUT09JnZhbGlkbWludXRlcz0x
+https://cdn5.mjunoon.tv:8087/web/ABN-161/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDY6MjI6MzIgUE0maGFzaF92YWx1ZT1kaE0zR0JpZ05KTk5mbzE4YXIxTU9nPT0mdmFsaWRtaW51dGVzPTE=
 
 #EXTINF:-1 tvg-logo="https://www.mjunoon.tv/uploads/categories/new/News-one-mjunoon.png", News One
-https://cdn5.mjunoon.tv:8087/web/NEWS1-128/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDEyOjI0OjMyIFBNJmhhc2hfdmFsdWU9cENVMFpDT291UTBxb2ZodENOM2NlQT09JnZhbGlkbWludXRlcz0x
+https://cdn5.mjunoon.tv:8087/web/NEWS1-128/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDY6MjI6MzMgUE0maGFzaF92YWx1ZT1VdWx2T04wcVp4WGJLcXJaNEFEL1R3PT0mdmFsaWRtaW51dGVzPTE=
 
 #EXTINF:-1 tvg-logo="https://www.mjunoon.tv/uploads/categories/new/Lahore-Rang-mjunoon.png", Lahore Rang News
-https://cdn5.mjunoon.tv:8087/web/lhrrang-179/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDEyOjI0OjMzIFBNJmhhc2hfdmFsdWU9SGZOUllld3ZSbFZaU1JDb1RpVCt1QT09JnZhbGlkbWludXRlcz0x
+https://cdn5.mjunoon.tv:8087/web/lhrrang-179/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDY6MjI6MzMgUE0maGFzaF92YWx1ZT1VdWx2T04wcVp4WGJLcXJaNEFEL1R3PT0mdmFsaWRtaW51dGVzPTE=
 
 #EXTINF:-1 tvg-logo="https://www.mjunoon.tv/uploads/categories/new/Neo-News-logo-mjunoon.png", NEO News
-https://cdn5.mjunoon.tv:8087/web/Neo-110/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDEyOjI0OjM0IFBNJmhhc2hfdmFsdWU9bjl1OHF6bXRyeVFuWC9RVTNwTG4vQT09JnZhbGlkbWludXRlcz0x
+https://cdn5.mjunoon.tv:8087/web/Neo-110/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDY6MjI6MzQgUE0maGFzaF92YWx1ZT1Vb0Mwdkp2Q3RhNkdWKzI4d3ZvUFR3PT0mdmFsaWRtaW51dGVzPTE=
 
 #EXTINF:-1 tvg-logo="https://www.mjunoon.tv/uploads/categories/new/cnn-news-logo-mjunoon.png", CNN News
-https://cdn5.mjunoon.tv:8087/web/cnn-86/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDEyOjI0OjM1IFBNJmhhc2hfdmFsdWU9NlRqUGxhZXRNTGZmazlOUXNTelBHZz09JnZhbGlkbWludXRlcz0x
+https://cdn5.mjunoon.tv:8087/web/cnn-86/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDY6MjI6MzUgUE0maGFzaF92YWx1ZT04akU0bjlVU05HemtjaHl0akZVVTdRPT0mdmFsaWRtaW51dGVzPTE=
 
 #EXTINF:-1 tvg-logo="https://www.mjunoon.tv/uploads/categories/new/8xm-mjunoon.png", 8XM
-https://cdn5.mjunoon.tv:8087/web/8XM-131/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDEyOjI0OjM2IFBNJmhhc2hfdmFsdWU9Mm9SSnlWVkFuc1hxOXNaViszV2xlZz09JnZhbGlkbWludXRlcz0x
+https://cdn5.mjunoon.tv:8087/web/8XM-131/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDY6MjI6MzYgUE0maGFzaF92YWx1ZT03MGZFOWQ5UFZmeit5OER1RTYzQW93PT0mdmFsaWRtaW51dGVzPTE=
 
 #EXTINF:-1 tvg-logo="https://www.mjunoon.tv/uploads/categories/new/Tvone-mjunoon.png", TV One
-https://cdn5.mjunoon.tv:8087/web/TV1-129/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDEyOjI0OjM3IFBNJmhhc2hfdmFsdWU9ekJQS281dHVXa2NES2t3N29xaU1UQT09JnZhbGlkbWludXRlcz0x
+https://cdn5.mjunoon.tv:8087/web/TV1-129/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDY6MjI6MzcgUE0maGFzaF92YWx1ZT1JVHg4MXQ4RUxveDVBckZueSs3eGZBPT0mdmFsaWRtaW51dGVzPTE=
 
 #EXTINF:-1 tvg-logo="https://www.mjunoon.tv/uploads/categories/new/Jalwa-mjunoon.png", Jalwa TV
-https://cdn5.mjunoon.tv:8087/web/JalwaTV-135/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDEyOjI0OjM4IFBNJmhhc2hfdmFsdWU9cnJtMnVBZklUOGE1eEZLSkdCU3VxQT09JnZhbGlkbWludXRlcz0x
+https://cdn5.mjunoon.tv:8087/web/JalwaTV-135/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDY6MjI6MzcgUE0maGFzaF92YWx1ZT1JVHg4MXQ4RUxveDVBckZueSs3eGZBPT0mdmFsaWRtaW51dGVzPTE=
 
 #EXTINF:-1 tvg-logo="https://www.mjunoon.tv/uploads/categories/new/K-21-news-mjunoon.png", K21 News
-https://cdn5.mjunoon.tv:8087/web/K21News-116/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDEyOjI0OjM5IFBNJmhhc2hfdmFsdWU9c3BWNnlIZzhjcXBkdFBNZ2lHaEcrdz09JnZhbGlkbWludXRlcz0x
+https://cdn5.mjunoon.tv:8087/web/K21News-116/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDY6MjI6MzggUE0maGFzaF92YWx1ZT1nRFhQL2JMUm1ubVNMdE5ubXdKTmN3PT0mdmFsaWRtaW51dGVzPTE=
 
 #EXTINF:-1 tvg-logo="https://www.mjunoon.tv/uploads/categories/new/SEE-Tv-mjunoon.png", SEE TV
-https://cdn5.mjunoon.tv:8087/web/SeeTV-156/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDEyOjI0OjQwIFBNJmhhc2hfdmFsdWU9WFcxRVppUis3RFlYMGM1dFV6MFhMZz09JnZhbGlkbWludXRlcz0x
+https://cdn5.mjunoon.tv:8087/web/SeeTV-156/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDY6MjI6MzkgUE0maGFzaF92YWx1ZT1sbDZSZUFJMFRvME9BQ1A0ZHFEZkJBPT0mdmFsaWRtaW51dGVzPTE=
 
 #EXTINF:-1 tvg-logo="https://www.mjunoon.tv/uploads/categories/new/DW-Logo-mjunoon.png", DW English
-https://cdn5.mjunoon.tv:8087/web/DW-136-4A/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDEyOjI0OjQxIFBNJmhhc2hfdmFsdWU9S2U2UjIxeGhZQzhwUnR1bEVraWtmdz09JnZhbGlkbWludXRlcz0x
+https://cdn5.mjunoon.tv:8087/web/DW-136-4A/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDY6MjI6NDAgUE0maGFzaF92YWx1ZT0rTG15VXRIbFB1Q29zL25WY1N2SHNBPT0mdmFsaWRtaW51dGVzPTE=
 
 #EXTINF:-1 tvg-logo="https://www.mjunoon.tv/uploads/categories/new/Khaber-mjunoon.png", AVT Khyber TV
-https://cdn5.mjunoon.tv:8087/web/AVTKhyber-114/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDEyOjI0OjQyIFBNJmhhc2hfdmFsdWU9MXdvU2tvMUNISmkzakI5M2dTc25GQT09JnZhbGlkbWludXRlcz0x
+https://cdn5.mjunoon.tv:8087/web/AVTKhyber-114/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDY6MjI6NDEgUE0maGFzaF92YWx1ZT1OSU95YmVmMVBmb0lGZ0VRaTJVYkRnPT0mdmFsaWRtaW51dGVzPTE=
 
 #EXTINF:-1 tvg-logo="https://www.mjunoon.tv/uploads/categories/new/Kashish-mjunoon.png", Kashish
-https://cdn5.mjunoon.tv:8087/web/Kashish-150/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDEyOjI0OjQyIFBNJmhhc2hfdmFsdWU9MXdvU2tvMUNISmkzakI5M2dTc25GQT09JnZhbGlkbWludXRlcz0x
+https://cdn5.mjunoon.tv:8087/web/Kashish-150/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDY6MjI6NDIgUE0maGFzaF92YWx1ZT1NYThTUVNFelhNOGZqc284cE43VFBnPT0mdmFsaWRtaW51dGVzPTE=
 
 #EXTINF:-1 tvg-logo="https://www.mjunoon.tv/uploads/categories/new/Khabar-news-mjunoon.png", Khyber News
-https://cdn5.mjunoon.tv:8087/web/KhyberNews-160/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDEyOjI0OjQzIFBNJmhhc2hfdmFsdWU9S2hrUFNXdDBHZWF5eE1ZVXUzV1VaQT09JnZhbGlkbWludXRlcz0x
+https://cdn5.mjunoon.tv:8087/web/KhyberNews-160/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDY6MjI6NDIgUE0maGFzaF92YWx1ZT1NYThTUVNFelhNOGZqc284cE43VFBnPT0mdmFsaWRtaW51dGVzPTE=
 
 #EXTINF:-1 tvg-logo="https://www.mjunoon.tv/uploads/categories/new/KTN-mjunoon.png", KTN Entertainment
-https://cdn5.mjunoon.tv:8087/web/KTN-149/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDEyOjI0OjQ0IFBNJmhhc2hfdmFsdWU9T00zK2tEMVdScFRtWjF2bFZYSzJndz09JnZhbGlkbWludXRlcz0x
+https://cdn5.mjunoon.tv:8087/web/KTN-149/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDY6MjI6NDMgUE0maGFzaF92YWx1ZT02N05MK3RPOHo0NmNwUFExT2VxNXJBPT0mdmFsaWRtaW51dGVzPTE=
 
 #EXTINF:-1 tvg-logo="https://www.mjunoon.tv/uploads/categories/new/gnn.png
 ", GNN
-https://cdn5.mjunoon.tv:8087/web/gnnnews-181/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDEyOjI0OjQ1IFBNJmhhc2hfdmFsdWU9Z1pkNU1HNWdlOGZkRTIyVDdlRlRodz09JnZhbGlkbWludXRlcz0x
+https://cdn5.mjunoon.tv:8087/web/gnnnews-181/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDY6MjI6NDQgUE0maGFzaF92YWx1ZT1WSno0UkM0MkVrVFBhcUZrSjRpUm1BPT0mdmFsaWRtaW51dGVzPTE=
 
 #EXTINF:-1 tvg-logo="https://www.mjunoon.tv/uploads/categories/new/Pashto1-mjunoon.png", Pashto1
-https://cdn5.mjunoon.tv:8087/web/PASHTOTV-119/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDEyOjI0OjQ2IFBNJmhhc2hfdmFsdWU9QmEremk3T0U2bUxBZFNPZjZkVzl1Zz09JnZhbGlkbWludXRlcz0x
+https://cdn5.mjunoon.tv:8087/web/PASHTOTV-119/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDY6MjI6NDUgUE0maGFzaF92YWx1ZT1SVUV3akh5d3J0VE13Q3I4RklFRE9BPT0mdmFsaWRtaW51dGVzPTE=
 
 #EXTINF:-1 tvg-logo="https://www.mjunoon.tv/uploads/categories/binoria_media.png", Binoria Media 
-https://cdn5.mjunoon.tv:8087/web/brlivetransmit/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDEyOjI0OjQ3IFBNJmhhc2hfdmFsdWU9Z3c3ekFqTDEwSk5wT29FczRUNlRzUT09JnZhbGlkbWludXRlcz0x
+https://cdn5.mjunoon.tv:8087/web/brlivetransmit/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDY6MjI6NDYgUE0maGFzaF92YWx1ZT1iUzZHb2phMlZGUnZyM05xMkFwTlRBPT0mdmFsaWRtaW51dGVzPTE=
 
 #EXTINF:-1 tvg-logo="https://www.mjunoon.tv/uploads/categories/new/Apna-mjunoon.png", Apna TV
-https://cdn5.mjunoon.tv:8087/web/ApnaChannel-134/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDEyOjI0OjQ4IFBNJmhhc2hfdmFsdWU9eEZxSm5LSko2Z0QvTkE2T3FDcEVEZz09JnZhbGlkbWludXRlcz0x
+https://cdn5.mjunoon.tv:8087/web/ApnaChannel-134/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDY6MjI6NDcgUE0maGFzaF92YWx1ZT1pTVZ0UmdtcWY4YWVOcWUxSXd5LzlnPT0mdmFsaWRtaW51dGVzPTE=
 
 #EXTINF:-1 tvg-logo="https://www.mjunoon.tv/uploads/categories/new/aljazeera-mjunoon.png", Al Jazeera
-https://cdn5.mjunoon.tv:8087/web/aljazeera-148/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDEyOjI0OjQ5IFBNJmhhc2hfdmFsdWU9ZlA2SXhWY211QUZkdXR1KytuTHErZz09JnZhbGlkbWludXRlcz0x
+https://cdn5.mjunoon.tv:8087/web/aljazeera-148/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDY6MjI6NDcgUE0maGFzaF92YWx1ZT1pTVZ0UmdtcWY4YWVOcWUxSXd5LzlnPT0mdmFsaWRtaW51dGVzPTE=
 
 #EXTINF:-1 tvg-logo="https://www.mjunoon.tv/uploads/categories/new/Afghan-mjunoon.png", Afghan TV
-https://cdn5.mjunoon.tv:8087/web/afghantv-154/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDEyOjI0OjUwIFBNJmhhc2hfdmFsdWU9dkR2Zk53eTFSWkM5Qld4S0IvT2JwZz09JnZhbGlkbWludXRlcz0x
+https://cdn5.mjunoon.tv:8087/web/afghantv-154/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDY6MjI6NDggUE0maGFzaF92YWx1ZT1makZpVFI5NTNPYWpXQVdBcTBTUzdnPT0mdmFsaWRtaW51dGVzPTE=
 
 #EXTINF:-1 tvg-logo="https://www.mjunoon.tv/uploads/categories/new/Waseb-mjunoon.png", Waseb
-https://cdn5.mjunoon.tv:8087/web/WASEB-130/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDEyOjI0OjUxIFBNJmhhc2hfdmFsdWU9Q2Z0VWxRdC9VUkN4UnQ1N0hVTDViQT09JnZhbGlkbWludXRlcz0x
+https://cdn5.mjunoon.tv:8087/web/WASEB-130/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDY6MjI6NDkgUE0maGFzaF92YWx1ZT0xNmM3cFo5L0cycmc3MHV4MUQ4VHB3PT0mdmFsaWRtaW51dGVzPTE=
 
 #EXTINF:-1 tvg-logo="https://www.mjunoon.tv/uploads/categories/new/Kay2-mjunoon.png", Kay2 TV
-https://cdn5.mjunoon.tv:8087/web/KAY2-127/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDEyOjI0OjUyIFBNJmhhc2hfdmFsdWU9aWczeHdLZ0RIcmtYbUNSSHF4YU53Zz09JnZhbGlkbWludXRlcz0x
+https://cdn5.mjunoon.tv:8087/web/KAY2-127/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDY6MjI6NTAgUE0maGFzaF92YWx1ZT1TNC80bFZJSzFmR2o1RGNaenFTK3ZBPT0mdmFsaWRtaW51dGVzPTE=
 
 #EXTINF:-1 tvg-logo="https://www.mjunoon.tv/uploads/categories/new/animal-planet-logo.png", Animal Planet
-https://cdn5.mjunoon.tv:8087/web/Animal-Planet-158-3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDEyOjI0OjUzIFBNJmhhc2hfdmFsdWU9akJlVEh6NVhZWGNVN2EwVDZEVGk1dz09JnZhbGlkbWludXRlcz0x
+https://cdn5.mjunoon.tv:8087/web/Animal-Planet-158-3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDY6MjI6NTAgUE0maGFzaF92YWx1ZT1TNC80bFZJSzFmR2o1RGNaenFTK3ZBPT0mdmFsaWRtaW51dGVzPTE=
 
 #EXTINF:-1 tvg-logo="https://www.mjunoon.tv/uploads/categories/new/movie-one-mjunoon.png", Movie One
-https://cdn5.mjunoon.tv:8087/web/movie-one-176/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDEyOjI0OjU0IFBNJmhhc2hfdmFsdWU9OHZ3eitGMzdnUkd5amxtbnJnVjk2Zz09JnZhbGlkbWludXRlcz0x
+https://cdn5.mjunoon.tv:8087/web/movie-one-176/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDY6MjI6NTEgUE0maGFzaF92YWx1ZT1rZlpzdDh5c2ZRNkpUcUkzRzB1c2h3PT0mdmFsaWRtaW51dGVzPTE=
 
 #EXTINF:-1 tvg-logo="https://www.mjunoon.tv/uploads/categories/new/times_news-mjunoon.png", Time News
-https://cdn5.mjunoon.tv:8087/web/time-news-172/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDEyOjI0OjU0IFBNJmhhc2hfdmFsdWU9OHZ3eitGMzdnUkd5amxtbnJnVjk2Zz09JnZhbGlkbWludXRlcz0x
+https://cdn5.mjunoon.tv:8087/web/time-news-172/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDY6MjI6NTIgUE0maGFzaF92YWx1ZT1lSit3QU1XdlV4bnh4TDdlRzBVR2V3PT0mdmFsaWRtaW51dGVzPTE=
 
 #EXTINF:-1 tvg-logo="https://www.mjunoon.tv/uploads/categories/new/champion-tv-mjunoon.png", Champion TV
-https://cdn5.mjunoon.tv:8087/web/champion-177/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDEyOjI0OjU1IFBNJmhhc2hfdmFsdWU9eFJ1SjVCQVMxamRRNHlJUFd5dEM2QT09JnZhbGlkbWludXRlcz0x
+https://cdn5.mjunoon.tv:8087/web/champion-177/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI2IDY6MjI6NTMgUE0maGFzaF92YWx1ZT1CM1lRZG8vNkVXMmlHTnR6a1dWMDdnPT0mdmFsaWRtaW51dGVzPTE=
 
