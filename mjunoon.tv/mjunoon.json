@@ -1,7 +1,7 @@
 {
   "name": "Mjunoon.tv Playlist – Available in only Pakistan",
   "credit": "@kgkaku",
-  "generated_on": "2026-10-26 22:09:30",
+  "generated_on": "2026-10-27 02:58:04",
   "total_channels": 36,
   "active_channels": 36,
   "channels": [
@@ -9,7 +9,7 @@
       "name": "Madani Channel HD",
       "slug": "madani-channel-live",
       "logo": "https://www.mjunoon.tv/uploads/categories/new/Madni-TV-mjunoon.png",
-      "stream_url": "https://cdn5.mjunoon.tv:8087/web/Madni-121/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowODo1NCBQTSZoYXNoX3ZhbHVlPUZlZzUzc0x5MHk1RlNVZ1F6YlBPUlE9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+      "stream_url": "https://cdn5.mjunoon.tv:8087/web/Madni-121/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjI5IEFNJmhhc2hfdmFsdWU9YUpldlk0RFl5MVF4Yy9MVlhEMUtFZz09JnZhbGlkbWludXRlcz0x",
       "views": "737.3K ",
       "status": "live"
     },
@@ -17,7 +17,7 @@
       "name": "Saudi Quran Makkah TV HD",
       "slug": "saudi-quran-makkah-tv-hd-live",
       "logo": "https://www.mjunoon.tv/uploads/categories/new/Quran-Tv-mjunoon.png",
-      "stream_url": "https://cdn5.mjunoon.tv:8087/web/SaudiQuran-142/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowODo1NSBQTSZoYXNoX3ZhbHVlPVQwMSsyeFFoV1BVVHFSWTF1L29yTlE9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+      "stream_url": "https://cdn5.mjunoon.tv:8087/web/SaudiQuran-142/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjMwIEFNJmhhc2hfdmFsdWU9d1EzSVJ6NlgwTUpidnkwSnYyRzFoZz09JnZhbGlkbWludXRlcz0x",
       "views": "420.7K ",
       "status": "live"
     },
@@ -25,7 +25,7 @@
       "name": "Saudi Sunnah Madinah TV HD",
       "slug": "saudi-sunnah-madinah-tv-hd-live",
       "logo": "https://www.mjunoon.tv/uploads/categories/new/Sunnah-TV-mjunoon.png",
-      "stream_url": "https://cdn5.mjunoon.tv:8087/web/SaudiSunnah-141/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowODo1NiBQTSZoYXNoX3ZhbHVlPURqdlRSVEZLNVhsUURnWElGWTQyWnc9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+      "stream_url": "https://cdn5.mjunoon.tv:8087/web/SaudiSunnah-141/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjMxIEFNJmhhc2hfdmFsdWU9dUxxT1pkNG44NmRJOWR3UDZ3WVVDUT09JnZhbGlkbWludXRlcz0x",
       "views": "295.7K ",
       "status": "live"
     },
@@ -33,7 +33,7 @@
       "name": "TRT World",
       "slug": "trt-world-live",
       "logo": "https://www.mjunoon.tv/uploads/categories/new/TRT-World-mjunoon.png",
-      "stream_url": "https://cdn5.mjunoon.tv:8087/web/TRTENG-153/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowODo1NyBQTSZoYXNoX3ZhbHVlPXhaeXNvc2xXc1VaUVlpcWl1VVJIQlE9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+      "stream_url": "https://cdn5.mjunoon.tv:8087/web/TRTENG-153/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjMyIEFNJmhhc2hfdmFsdWU9Zk5TYlJrS3pacHFQUldXODNKZEtiQT09JnZhbGlkbWludXRlcz0x",
       "views": "42.6K ",
       "status": "live"
     },
@@ -41,7 +41,7 @@
       "name": "Samaa TV",
       "slug": "samaa-tv-live",
       "logo": "https://www.mjunoon.tv/uploads/categories/new/samaa-tv-mjunoon.png",
-      "stream_url": "https://cdn5.mjunoon.tv:8087/web/SAMAA-173/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowODo1OCBQTSZoYXNoX3ZhbHVlPWd4cG1Bb28xMDhQUy9mZ2ZRQVllVUE9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+      "stream_url": "https://cdn5.mjunoon.tv:8087/web/SAMAA-173/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjMzIEFNJmhhc2hfdmFsdWU9dnl3R0hydDRxMVRuYmtTT202TFVpZz09JnZhbGlkbWludXRlcz0x",
       "views": "2.4M ",
       "status": "live"
     },
@@ -49,7 +49,7 @@
       "name": "URDU 1",
       "slug": "urdu-1-live",
       "logo": "https://www.mjunoon.tv/uploads/categories/new/Urdu-1-mjunoon.png",
-      "stream_url": "https://cdn5.mjunoon.tv:8087/web/Urdu1-158-4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowODo1OSBQTSZoYXNoX3ZhbHVlPWZYVW95WGlmNnY4M0V3NTNINUFjUmc9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+      "stream_url": "https://cdn5.mjunoon.tv:8087/web/Urdu1-158-4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjM0IEFNJmhhc2hfdmFsdWU9Y0Q2dVQwUjhQcUtSckhrTzZuUDAwUT09JnZhbGlkbWludXRlcz0x",
       "views": "850.9K ",
       "status": "live"
     },
@@ -57,7 +57,7 @@
       "name": "KTN News",
       "slug": "ktn-news-live",
       "logo": "https://www.mjunoon.tv/uploads/categories/new/KTN-news-mjunoon.png",
-      "stream_url": "https://cdn5.mjunoon.tv:8087/web/KTNNews-151/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOTowMCBQTSZoYXNoX3ZhbHVlPXJ3alBtdTRUT3FCOHNIa3hwN3g5VlE9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+      "stream_url": "https://cdn5.mjunoon.tv:8087/web/KTNNews-151/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjM1IEFNJmhhc2hfdmFsdWU9OEFPZ0lMNzZMOHJQcWZqK3RHQnFFdz09JnZhbGlkbWludXRlcz0x",
       "views": "690.9K ",
       "status": "live"
     },
@@ -65,7 +65,7 @@
       "name": "Cartoon Network",
       "slug": "cartoon-network-live",
       "logo": "https://www.mjunoon.tv/uploads/categories/new/cartoon-network-logo-mjunoon.png",
-      "stream_url": "https://cdn5.mjunoon.tv:8087/web/cartoon-network-87/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOTowMSBQTSZoYXNoX3ZhbHVlPUVmZ3paZmNoUnRhOGtiVzBiQ0N3NXc9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+      "stream_url": "https://cdn5.mjunoon.tv:8087/web/cartoon-network-87/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjM2IEFNJmhhc2hfdmFsdWU9aEViaDdTWDVUL3lUY1ZKcmt4NTBIZz09JnZhbGlkbWludXRlcz0x",
       "views": "630.9K ",
       "status": "live"
     },
@@ -73,7 +73,7 @@
       "name": "Abb Takk News",
       "slug": "abb-takk-news-live",
       "logo": "https://www.mjunoon.tv/uploads/categories/new/Abb-Takk-mjunoon.png",
-      "stream_url": "https://cdn5.mjunoon.tv:8087/web/AbbTakNews-133/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOTowMiBQTSZoYXNoX3ZhbHVlPW9yZmZKalhuMWZzRVBOZmxzOHJ5RUE9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+      "stream_url": "https://cdn5.mjunoon.tv:8087/web/AbbTakNews-133/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjM3IEFNJmhhc2hfdmFsdWU9MFgxVTcwdGd4Y09oMWZzTUFQSTMydz09JnZhbGlkbWludXRlcz0x",
       "views": "600.2K ",
       "status": "live"
     },
@@ -81,7 +81,7 @@
       "name": "ABN NEWS",
       "slug": "abn-news-live",
       "logo": "https://www.mjunoon.tv/uploads/categories/new/abn-news-live-mjunoon.png",
-      "stream_url": "https://cdn5.mjunoon.tv:8087/web/ABN-161/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOTowMyBQTSZoYXNoX3ZhbHVlPVFMVGtOMmRhd1RHVHJGcUZ1dFd6ZWc9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+      "stream_url": "https://cdn5.mjunoon.tv:8087/web/ABN-161/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjM4IEFNJmhhc2hfdmFsdWU9MTEzSmgwRUxrdmJha0xUa2xQaW5HUT09JnZhbGlkbWludXRlcz0x",
       "views": "586.4K ",
       "status": "live"
     },
@@ -89,7 +89,7 @@
       "name": "News One",
       "slug": "news-one-live",
       "logo": "https://www.mjunoon.tv/uploads/categories/new/News-one-mjunoon.png",
-      "stream_url": "https://cdn5.mjunoon.tv:8087/web/NEWS1-128/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOTowNCBQTSZoYXNoX3ZhbHVlPVNlbGJvbGV1b3JEbjI4SlpNVEplTVE9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+      "stream_url": "https://cdn5.mjunoon.tv:8087/web/NEWS1-128/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjM5IEFNJmhhc2hfdmFsdWU9N1lwc2FuVFprS2RZZ1RMQ2h4d3owZz09JnZhbGlkbWludXRlcz0x",
       "views": "547.1K ",
       "status": "live"
     },
@@ -97,7 +97,7 @@
       "name": "Lahore Rang News",
       "slug": "lahore-rang-news-live",
       "logo": "https://www.mjunoon.tv/uploads/categories/new/Lahore-Rang-mjunoon.png",
-      "stream_url": "https://cdn5.mjunoon.tv:8087/web/lhrrang-179/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOTowNSBQTSZoYXNoX3ZhbHVlPUd0a3JLMDBicG4zbnhXSXl5YkRqUGc9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+      "stream_url": "https://cdn5.mjunoon.tv:8087/web/lhrrang-179/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjQwIEFNJmhhc2hfdmFsdWU9dkN2RmRZOU4vNnhPbExCYVRrZS8zZz09JnZhbGlkbWludXRlcz0x",
       "views": "526.1K ",
       "status": "live"
     },
@@ -105,7 +105,7 @@
       "name": "NEO News",
       "slug": "neo-tv-live",
       "logo": "https://www.mjunoon.tv/uploads/categories/new/Neo-News-logo-mjunoon.png",
-      "stream_url": "https://cdn5.mjunoon.tv:8087/web/Neo-110/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOTowNiBQTSZoYXNoX3ZhbHVlPTlaSVhuVXc1dmZNZk40RUhxZzcvQmc9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+      "stream_url": "https://cdn5.mjunoon.tv:8087/web/Neo-110/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjQxIEFNJmhhc2hfdmFsdWU9cityWXpPbnhSVUxHMEFPdFhOd040QT09JnZhbGlkbWludXRlcz0x",
       "views": "516.7K ",
       "status": "live"
     },
@@ -113,7 +113,7 @@
       "name": "CNN News",
       "slug": "cnn-news-live",
       "logo": "https://www.mjunoon.tv/uploads/categories/new/cnn-news-logo-mjunoon.png",
-      "stream_url": "https://cdn5.mjunoon.tv:8087/web/cnn-86/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOTowNyBQTSZoYXNoX3ZhbHVlPWk4NXJQMVIzTDBQQU03RG5oUWZMM3c9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+      "stream_url": "https://cdn5.mjunoon.tv:8087/web/cnn-86/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjQyIEFNJmhhc2hfdmFsdWU9M1NlUGlUZWFGYzQ1TWJTWmNBaEhoZz09JnZhbGlkbWludXRlcz0x",
       "views": "491.9K ",
       "status": "live"
     },
@@ -121,7 +121,7 @@
       "name": "8XM",
       "slug": "8xm-live",
       "logo": "https://www.mjunoon.tv/uploads/categories/new/8xm-mjunoon.png",
-      "stream_url": "https://cdn5.mjunoon.tv:8087/web/8XM-131/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOTowOCBQTSZoYXNoX3ZhbHVlPWtiT0RLejNuUTVLMzNJQ2kvUUJXa1E9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+      "stream_url": "https://cdn5.mjunoon.tv:8087/web/8XM-131/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjQzIEFNJmhhc2hfdmFsdWU9TjM4TFI2UTkrQXdwYUd0R2xEOHNoQT09JnZhbGlkbWludXRlcz0x",
       "views": "481.3K ",
       "status": "live"
     },
@@ -129,7 +129,7 @@
       "name": "TV One",
       "slug": "tv-one-live",
       "logo": "https://www.mjunoon.tv/uploads/categories/new/Tvone-mjunoon.png",
-      "stream_url": "https://cdn5.mjunoon.tv:8087/web/TV1-129/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOTowOSBQTSZoYXNoX3ZhbHVlPUc1NjJaSzF2S3dmWUR4K1pQOE42eXc9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+      "stream_url": "https://cdn5.mjunoon.tv:8087/web/TV1-129/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjQ0IEFNJmhhc2hfdmFsdWU9OXNNc21rSHl1UHlGV0V1ZlpsRmJaUT09JnZhbGlkbWludXRlcz0x",
       "views": "467.4K ",
       "status": "live"
     },
@@ -137,7 +137,7 @@
       "name": "Jalwa TV",
       "slug": "jalwa-tv-live",
       "logo": "https://www.mjunoon.tv/uploads/categories/new/Jalwa-mjunoon.png",
-      "stream_url": "https://cdn5.mjunoon.tv:8087/web/JalwaTV-135/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOToxMCBQTSZoYXNoX3ZhbHVlPUMxV0R1VE94bGZReDUrMXZzZW9uM1E9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+      "stream_url": "https://cdn5.mjunoon.tv:8087/web/JalwaTV-135/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjQ1IEFNJmhhc2hfdmFsdWU9aXAwSXRjbkE5UVFtY2tvRW5heG1FUT09JnZhbGlkbWludXRlcz0x",
       "views": "416K ",
       "status": "live"
     },
@@ -145,7 +145,7 @@
       "name": "K21 News",
       "slug": "k21-news-live",
       "logo": "https://www.mjunoon.tv/uploads/categories/new/K-21-news-mjunoon.png",
-      "stream_url": "https://cdn5.mjunoon.tv:8087/web/K21News-116/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOToxMSBQTSZoYXNoX3ZhbHVlPWRobnVNNEpTL1pVUmt5c21MZkVQRlE9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+      "stream_url": "https://cdn5.mjunoon.tv:8087/web/K21News-116/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjQ2IEFNJmhhc2hfdmFsdWU9ejNzL3doUEJudEgxWnBwOTdZYWNNdz09JnZhbGlkbWludXRlcz0x",
       "views": "389.9K ",
       "status": "live"
     },
@@ -153,7 +153,7 @@
       "name": "SEE TV",
       "slug": "see-tv-live",
       "logo": "https://www.mjunoon.tv/uploads/categories/new/SEE-Tv-mjunoon.png",
-      "stream_url": "https://cdn5.mjunoon.tv:8087/web/SeeTV-156/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOToxMiBQTSZoYXNoX3ZhbHVlPTNCbnhEUDlISjFCYXFmcjduWmR2Ync9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+      "stream_url": "https://cdn5.mjunoon.tv:8087/web/SeeTV-156/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjQ3IEFNJmhhc2hfdmFsdWU9aEFYNTcvZnN6U3NvRTl6K3NvUE9LZz09JnZhbGlkbWludXRlcz0x",
       "views": "368.3K ",
       "status": "live"
     },
@@ -161,7 +161,7 @@
       "name": "DW English",
       "slug": "DW-english-live",
       "logo": "https://www.mjunoon.tv/uploads/categories/new/DW-Logo-mjunoon.png",
-      "stream_url": "https://cdn5.mjunoon.tv:8087/web/DW-136-4A/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOToxMyBQTSZoYXNoX3ZhbHVlPVByeGh0dzRYVXlmakdJYXJ6ZE02OUE9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+      "stream_url": "https://cdn5.mjunoon.tv:8087/web/DW-136-4A/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjQ4IEFNJmhhc2hfdmFsdWU9L3VTd3NKT3hsdnViRHBYakI4Y2pwdz09JnZhbGlkbWludXRlcz0x",
       "views": "357.3K ",
       "status": "live"
     },
@@ -169,7 +169,7 @@
       "name": "AVT Khyber TV",
       "slug": "avt-khyber-tv-live",
       "logo": "https://www.mjunoon.tv/uploads/categories/new/Khaber-mjunoon.png",
-      "stream_url": "https://cdn5.mjunoon.tv:8087/web/AVTKhyber-114/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOToxNCBQTSZoYXNoX3ZhbHVlPVNOOVQ4dTl1VTlJVytRbkhDZGw4b0E9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+      "stream_url": "https://cdn5.mjunoon.tv:8087/web/AVTKhyber-114/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjQ5IEFNJmhhc2hfdmFsdWU9Z0haSC9rYmFWcUdFbGJ3TGtDb21xZz09JnZhbGlkbWludXRlcz0x",
       "views": "354.8K ",
       "status": "live"
     },
@@ -177,7 +177,7 @@
       "name": "Kashish",
       "slug": "kashish-live",
       "logo": "https://www.mjunoon.tv/uploads/categories/new/Kashish-mjunoon.png",
-      "stream_url": "https://cdn5.mjunoon.tv:8087/web/Kashish-150/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOToxNSBQTSZoYXNoX3ZhbHVlPTVaRXh5cEJrYnl3TnJjazI4RTJHWHc9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+      "stream_url": "https://cdn5.mjunoon.tv:8087/web/Kashish-150/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjUwIEFNJmhhc2hfdmFsdWU9OWJYbHF2VUtBOVlNNG1CWGtLTC9EQT09JnZhbGlkbWludXRlcz0x",
       "views": "349.6K ",
       "status": "live"
     },
@@ -185,7 +185,7 @@
       "name": "Khyber News",
       "slug": "khyber-news-live",
       "logo": "https://www.mjunoon.tv/uploads/categories/new/Khabar-news-mjunoon.png",
-      "stream_url": "https://cdn5.mjunoon.tv:8087/web/KhyberNews-160/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOToxNiBQTSZoYXNoX3ZhbHVlPXZOUGxBUWtNNjJkUStpS0NyV2I5eHc9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+      "stream_url": "https://cdn5.mjunoon.tv:8087/web/KhyberNews-160/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjUxIEFNJmhhc2hfdmFsdWU9RVoya1RuUGUxNGd2dDY3Q1JQdzB5Zz09JnZhbGlkbWludXRlcz0x",
       "views": "337.4K ",
       "status": "live"
     },
@@ -193,7 +193,7 @@
       "name": "KTN Entertainment",
       "slug": "ktn-entertainment-live",
       "logo": "https://www.mjunoon.tv/uploads/categories/new/KTN-mjunoon.png",
-      "stream_url": "https://cdn5.mjunoon.tv:8087/web/KTN-149/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOToxNyBQTSZoYXNoX3ZhbHVlPTBsV2pZVnRabzVaLzhqNTRYa095OWc9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+      "stream_url": "https://cdn5.mjunoon.tv:8087/web/KTN-149/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjUyIEFNJmhhc2hfdmFsdWU9U2J5ZnVoOXBZZlpWYzRDZXBjQ3pmUT09JnZhbGlkbWludXRlcz0x",
       "views": "319.4K ",
       "status": "live"
     },
@@ -201,7 +201,7 @@
       "name": "GNN",
       "slug": "gnn-live",
       "logo": "https://www.mjunoon.tv/uploads/categories/new/gnn.png\r\n",
-      "stream_url": "https://cdn5.mjunoon.tv:8087/web/gnnnews-181/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOToxOCBQTSZoYXNoX3ZhbHVlPWN4dzJEdTAyaHpQS0lzeWU4Q0xlaUE9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+      "stream_url": "https://cdn5.mjunoon.tv:8087/web/gnnnews-181/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjUzIEFNJmhhc2hfdmFsdWU9Z1V2MllGTkszYzgrMWJ0VXdQQlcyQT09JnZhbGlkbWludXRlcz0x",
       "views": "304.7K ",
       "status": "live"
     },
@@ -209,7 +209,7 @@
       "name": "Pashto1",
       "slug": "pashto1-live",
       "logo": "https://www.mjunoon.tv/uploads/categories/new/Pashto1-mjunoon.png",
-      "stream_url": "https://cdn5.mjunoon.tv:8087/web/PASHTOTV-119/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOToxOSBQTSZoYXNoX3ZhbHVlPXdxeDVDVnQ5R3FUcHp5V3ZiVURNUlE9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+      "stream_url": "https://cdn5.mjunoon.tv:8087/web/PASHTOTV-119/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjU0IEFNJmhhc2hfdmFsdWU9Z1RNUTc2aUx4L1I4MEIvVlpxMWNPZz09JnZhbGlkbWludXRlcz0x",
       "views": "298.1K ",
       "status": "live"
     },
@@ -217,7 +217,7 @@
       "name": "Binoria Media ",
       "slug": "binoria-media-live",
       "logo": "https://www.mjunoon.tv/uploads/categories/binoria_media.png",
-      "stream_url": "https://cdn5.mjunoon.tv:8087/web/brlivetransmit/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOToyMCBQTSZoYXNoX3ZhbHVlPVRubXZXQlB1ZG1ZMENmakZNb29lOHc9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+      "stream_url": "https://cdn5.mjunoon.tv:8087/web/brlivetransmit/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjU1IEFNJmhhc2hfdmFsdWU9UFE4ZTFiQTVPWC83LzFycE9HV2t5Zz09JnZhbGlkbWludXRlcz0x",
       "views": "293K ",
       "status": "live"
     },
@@ -225,7 +225,7 @@
       "name": "Apna TV",
       "slug": "apna-tv-live",
       "logo": "https://www.mjunoon.tv/uploads/categories/new/Apna-mjunoon.png",
-      "stream_url": "https://cdn5.mjunoon.tv:8087/web/ApnaChannel-134/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOToyMSBQTSZoYXNoX3ZhbHVlPVZJYi9CMHF2eDZDV1JPTHliSXlkSXc9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+      "stream_url": "https://cdn5.mjunoon.tv:8087/web/ApnaChannel-134/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjU2IEFNJmhhc2hfdmFsdWU9UGw0cnJFY2kraFhKbnhVQVF1TmdvUT09JnZhbGlkbWludXRlcz0x",
       "views": "274.2K ",
       "status": "live"
     },
@@ -233,7 +233,7 @@
       "name": "Al Jazeera",
       "slug": "al-jazeera-live",
       "logo": "https://www.mjunoon.tv/uploads/categories/new/aljazeera-mjunoon.png",
-      "stream_url": "https://cdn5.mjunoon.tv:8087/web/aljazeera-148/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOToyMiBQTSZoYXNoX3ZhbHVlPVRyYlpJNkMxQ3lpQ1hRU1NnRGJaY2c9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+      "stream_url": "https://cdn5.mjunoon.tv:8087/web/aljazeera-148/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjU3IEFNJmhhc2hfdmFsdWU9VzVYM0x1MHYxZE52c1YvMDU4UjdvQT09JnZhbGlkbWludXRlcz0x",
       "views": "246.1K ",
       "status": "live"
     },
@@ -241,7 +241,7 @@
       "name": "Afghan TV",
       "slug": "afghan-tv-live",
       "logo": "https://www.mjunoon.tv/uploads/categories/new/Afghan-mjunoon.png",
-      "stream_url": "https://cdn5.mjunoon.tv:8087/web/afghantv-154/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOToyMyBQTSZoYXNoX3ZhbHVlPURIQWxrWE14dlJUaUNzU1pNT0NLeFE9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+      "stream_url": "https://cdn5.mjunoon.tv:8087/web/afghantv-154/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjU4IEFNJmhhc2hfdmFsdWU9akdoOHgwbHNlc0t6VTJ6Z1FxQWlzUT09JnZhbGlkbWludXRlcz0x",
       "views": "239.3K ",
       "status": "live"
     },
@@ -249,7 +249,7 @@
       "name": "Waseb",
       "slug": "waseb-live",
       "logo": "https://www.mjunoon.tv/uploads/categories/new/Waseb-mjunoon.png",
-      "stream_url": "https://cdn5.mjunoon.tv:8087/web/WASEB-130/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOToyNCBQTSZoYXNoX3ZhbHVlPVdOTUYvdnYvbk9ybDVWWVpDa1FVV3c9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+      "stream_url": "https://cdn5.mjunoon.tv:8087/web/WASEB-130/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjU5IEFNJmhhc2hfdmFsdWU9UGdOTVJFVEpERktHbjFiUFBOcnBWQT09JnZhbGlkbWludXRlcz0x",
       "views": "222.7K ",
       "status": "live"
     },
@@ -257,7 +257,7 @@
       "name": "Kay2 TV",
       "slug": "kay2-tv-live",
       "logo": "https://www.mjunoon.tv/uploads/categories/new/Kay2-mjunoon.png",
-      "stream_url": "https://cdn5.mjunoon.tv:8087/web/KAY2-127/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOToyNSBQTSZoYXNoX3ZhbHVlPUdkbkpwRk5WWXZ4K3dxTllKWGZIelE9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+      "stream_url": "https://cdn5.mjunoon.tv:8087/web/KAY2-127/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU4OjAwIEFNJmhhc2hfdmFsdWU9akJtRTRscmtwUk5XZitGQURXVElCQT09JnZhbGlkbWludXRlcz0x",
       "views": "219.5K ",
       "status": "live"
     },
@@ -265,7 +265,7 @@
       "name": "Animal Planet",
       "slug": "animal-planet-live",
       "logo": "https://www.mjunoon.tv/uploads/categories/new/animal-planet-logo.png",
-      "stream_url": "https://cdn5.mjunoon.tv:8087/web/Animal-Planet-158-3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOToyNiBQTSZoYXNoX3ZhbHVlPXQzWDdnZ3NUSHdYc25oN2FDZ05Bb2c9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+      "stream_url": "https://cdn5.mjunoon.tv:8087/web/Animal-Planet-158-3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU4OjAxIEFNJmhhc2hfdmFsdWU9UFd6dXU5dktjRHFkK05NUklyRCsydz09JnZhbGlkbWludXRlcz0x",
       "views": "157.9K ",
       "status": "live"
     },
@@ -273,7 +273,7 @@
       "name": "Movie One",
       "slug": "movie-one-live",
       "logo": "https://www.mjunoon.tv/uploads/categories/new/movie-one-mjunoon.png",
-      "stream_url": "https://cdn5.mjunoon.tv:8087/web/movie-one-176/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOToyNyBQTSZoYXNoX3ZhbHVlPWNxRWpoZStFbUd5KzBpNEZ1UXBJQVE9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+      "stream_url": "https://cdn5.mjunoon.tv:8087/web/movie-one-176/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU4OjAyIEFNJmhhc2hfdmFsdWU9bVpBU3JPMEVuK1FaMElvWmVCeG9XUT09JnZhbGlkbWludXRlcz0x",
       "views": "113.2K ",
       "status": "live"
     },
@@ -281,7 +281,7 @@
       "name": "Time News",
       "slug": "time-news-live",
       "logo": "https://www.mjunoon.tv/uploads/categories/new/times_news-mjunoon.png",
-      "stream_url": "https://cdn5.mjunoon.tv:8087/web/time-news-172/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOToyOCBQTSZoYXNoX3ZhbHVlPXpGUHd2NG9oMXIvTDhOc0hsdXNWSVE9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+      "stream_url": "https://cdn5.mjunoon.tv:8087/web/time-news-172/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU4OjAzIEFNJmhhc2hfdmFsdWU9Nnl0KzEwaEdpRE1UVWcyRUNDMjdyZz09JnZhbGlkbWludXRlcz0x",
       "views": "79.5K ",
       "status": "live"
     },
@@ -289,7 +289,7 @@
       "name": "Champion TV",
       "slug": "champion-tv-live",
       "logo": "https://www.mjunoon.tv/uploads/categories/new/champion-tv-mjunoon.png",
-      "stream_url": "https://cdn5.mjunoon.tv:8087/web/champion-177/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOToyOSBQTSZoYXNoX3ZhbHVlPTZ4YS8yZUZ5eUNOc2IwTnBMTEFldEE9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+      "stream_url": "https://cdn5.mjunoon.tv:8087/web/champion-177/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU4OjA0IEFNJmhhc2hfdmFsdWU9Nmk4TWZDbXRhZ1c0WUxadi9hNzViZz09JnZhbGlkbWludXRlcz0x",
       "views": "74.7K ",
       "status": "live"
     }

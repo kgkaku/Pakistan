@@ -3,252 +3,252 @@
     "name": "Madani Channel HD",
     "link": "https://cdn5.mjunoon.tv:8087/web/Madni-121/playlist.m3u8",
     "logo": "https://www.mjunoon.tv/uploads/categories/new/Madni-TV-mjunoon.png",
-    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowODo1NCBQTSZoYXNoX3ZhbHVlPUZlZzUzc0x5MHk1RlNVZ1F6YlBPUlE9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjI5IEFNJmhhc2hfdmFsdWU9YUpldlk0RFl5MVF4Yy9MVlhEMUtFZz09JnZhbGlkbWludXRlcz0x",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
   },
   {
     "name": "Saudi Quran Makkah TV HD",
     "link": "https://cdn5.mjunoon.tv:8087/web/SaudiQuran-142/playlist.m3u8",
     "logo": "https://www.mjunoon.tv/uploads/categories/new/Quran-Tv-mjunoon.png",
-    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowODo1NSBQTSZoYXNoX3ZhbHVlPVQwMSsyeFFoV1BVVHFSWTF1L29yTlE9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjMwIEFNJmhhc2hfdmFsdWU9d1EzSVJ6NlgwTUpidnkwSnYyRzFoZz09JnZhbGlkbWludXRlcz0x",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
   },
   {
     "name": "Saudi Sunnah Madinah TV HD",
     "link": "https://cdn5.mjunoon.tv:8087/web/SaudiSunnah-141/playlist.m3u8",
     "logo": "https://www.mjunoon.tv/uploads/categories/new/Sunnah-TV-mjunoon.png",
-    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowODo1NiBQTSZoYXNoX3ZhbHVlPURqdlRSVEZLNVhsUURnWElGWTQyWnc9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjMxIEFNJmhhc2hfdmFsdWU9dUxxT1pkNG44NmRJOWR3UDZ3WVVDUT09JnZhbGlkbWludXRlcz0x",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
   },
   {
     "name": "TRT World",
     "link": "https://cdn5.mjunoon.tv:8087/web/TRTENG-153/playlist.m3u8",
     "logo": "https://www.mjunoon.tv/uploads/categories/new/TRT-World-mjunoon.png",
-    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowODo1NyBQTSZoYXNoX3ZhbHVlPXhaeXNvc2xXc1VaUVlpcWl1VVJIQlE9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjMyIEFNJmhhc2hfdmFsdWU9Zk5TYlJrS3pacHFQUldXODNKZEtiQT09JnZhbGlkbWludXRlcz0x",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
   },
   {
     "name": "Samaa TV",
     "link": "https://cdn5.mjunoon.tv:8087/web/SAMAA-173/playlist.m3u8",
     "logo": "https://www.mjunoon.tv/uploads/categories/new/samaa-tv-mjunoon.png",
-    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowODo1OCBQTSZoYXNoX3ZhbHVlPWd4cG1Bb28xMDhQUy9mZ2ZRQVllVUE9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjMzIEFNJmhhc2hfdmFsdWU9dnl3R0hydDRxMVRuYmtTT202TFVpZz09JnZhbGlkbWludXRlcz0x",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
   },
   {
     "name": "URDU 1",
     "link": "https://cdn5.mjunoon.tv:8087/web/Urdu1-158-4/playlist.m3u8",
     "logo": "https://www.mjunoon.tv/uploads/categories/new/Urdu-1-mjunoon.png",
-    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowODo1OSBQTSZoYXNoX3ZhbHVlPWZYVW95WGlmNnY4M0V3NTNINUFjUmc9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjM0IEFNJmhhc2hfdmFsdWU9Y0Q2dVQwUjhQcUtSckhrTzZuUDAwUT09JnZhbGlkbWludXRlcz0x",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
   },
   {
     "name": "KTN News",
     "link": "https://cdn5.mjunoon.tv:8087/web/KTNNews-151/playlist.m3u8",
     "logo": "https://www.mjunoon.tv/uploads/categories/new/KTN-news-mjunoon.png",
-    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOTowMCBQTSZoYXNoX3ZhbHVlPXJ3alBtdTRUT3FCOHNIa3hwN3g5VlE9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjM1IEFNJmhhc2hfdmFsdWU9OEFPZ0lMNzZMOHJQcWZqK3RHQnFFdz09JnZhbGlkbWludXRlcz0x",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
   },
   {
     "name": "Cartoon Network",
     "link": "https://cdn5.mjunoon.tv:8087/web/cartoon-network-87/playlist.m3u8",
     "logo": "https://www.mjunoon.tv/uploads/categories/new/cartoon-network-logo-mjunoon.png",
-    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOTowMSBQTSZoYXNoX3ZhbHVlPUVmZ3paZmNoUnRhOGtiVzBiQ0N3NXc9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjM2IEFNJmhhc2hfdmFsdWU9aEViaDdTWDVUL3lUY1ZKcmt4NTBIZz09JnZhbGlkbWludXRlcz0x",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
   },
   {
     "name": "Abb Takk News",
     "link": "https://cdn5.mjunoon.tv:8087/web/AbbTakNews-133/playlist.m3u8",
     "logo": "https://www.mjunoon.tv/uploads/categories/new/Abb-Takk-mjunoon.png",
-    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOTowMiBQTSZoYXNoX3ZhbHVlPW9yZmZKalhuMWZzRVBOZmxzOHJ5RUE9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjM3IEFNJmhhc2hfdmFsdWU9MFgxVTcwdGd4Y09oMWZzTUFQSTMydz09JnZhbGlkbWludXRlcz0x",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
   },
   {
     "name": "ABN NEWS",
     "link": "https://cdn5.mjunoon.tv:8087/web/ABN-161/playlist.m3u8",
     "logo": "https://www.mjunoon.tv/uploads/categories/new/abn-news-live-mjunoon.png",
-    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOTowMyBQTSZoYXNoX3ZhbHVlPVFMVGtOMmRhd1RHVHJGcUZ1dFd6ZWc9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjM4IEFNJmhhc2hfdmFsdWU9MTEzSmgwRUxrdmJha0xUa2xQaW5HUT09JnZhbGlkbWludXRlcz0x",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
   },
   {
     "name": "News One",
     "link": "https://cdn5.mjunoon.tv:8087/web/NEWS1-128/playlist.m3u8",
     "logo": "https://www.mjunoon.tv/uploads/categories/new/News-one-mjunoon.png",
-    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOTowNCBQTSZoYXNoX3ZhbHVlPVNlbGJvbGV1b3JEbjI4SlpNVEplTVE9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjM5IEFNJmhhc2hfdmFsdWU9N1lwc2FuVFprS2RZZ1RMQ2h4d3owZz09JnZhbGlkbWludXRlcz0x",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
   },
   {
     "name": "Lahore Rang News",
     "link": "https://cdn5.mjunoon.tv:8087/web/lhrrang-179/playlist.m3u8",
     "logo": "https://www.mjunoon.tv/uploads/categories/new/Lahore-Rang-mjunoon.png",
-    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOTowNSBQTSZoYXNoX3ZhbHVlPUd0a3JLMDBicG4zbnhXSXl5YkRqUGc9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjQwIEFNJmhhc2hfdmFsdWU9dkN2RmRZOU4vNnhPbExCYVRrZS8zZz09JnZhbGlkbWludXRlcz0x",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
   },
   {
     "name": "NEO News",
     "link": "https://cdn5.mjunoon.tv:8087/web/Neo-110/playlist.m3u8",
     "logo": "https://www.mjunoon.tv/uploads/categories/new/Neo-News-logo-mjunoon.png",
-    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOTowNiBQTSZoYXNoX3ZhbHVlPTlaSVhuVXc1dmZNZk40RUhxZzcvQmc9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjQxIEFNJmhhc2hfdmFsdWU9cityWXpPbnhSVUxHMEFPdFhOd040QT09JnZhbGlkbWludXRlcz0x",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
   },
   {
     "name": "CNN News",
     "link": "https://cdn5.mjunoon.tv:8087/web/cnn-86/playlist.m3u8",
     "logo": "https://www.mjunoon.tv/uploads/categories/new/cnn-news-logo-mjunoon.png",
-    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOTowNyBQTSZoYXNoX3ZhbHVlPWk4NXJQMVIzTDBQQU03RG5oUWZMM3c9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjQyIEFNJmhhc2hfdmFsdWU9M1NlUGlUZWFGYzQ1TWJTWmNBaEhoZz09JnZhbGlkbWludXRlcz0x",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
   },
   {
     "name": "8XM",
     "link": "https://cdn5.mjunoon.tv:8087/web/8XM-131/playlist.m3u8",
     "logo": "https://www.mjunoon.tv/uploads/categories/new/8xm-mjunoon.png",
-    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOTowOCBQTSZoYXNoX3ZhbHVlPWtiT0RLejNuUTVLMzNJQ2kvUUJXa1E9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjQzIEFNJmhhc2hfdmFsdWU9TjM4TFI2UTkrQXdwYUd0R2xEOHNoQT09JnZhbGlkbWludXRlcz0x",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
   },
   {
     "name": "TV One",
     "link": "https://cdn5.mjunoon.tv:8087/web/TV1-129/playlist.m3u8",
     "logo": "https://www.mjunoon.tv/uploads/categories/new/Tvone-mjunoon.png",
-    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOTowOSBQTSZoYXNoX3ZhbHVlPUc1NjJaSzF2S3dmWUR4K1pQOE42eXc9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjQ0IEFNJmhhc2hfdmFsdWU9OXNNc21rSHl1UHlGV0V1ZlpsRmJaUT09JnZhbGlkbWludXRlcz0x",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
   },
   {
     "name": "Jalwa TV",
     "link": "https://cdn5.mjunoon.tv:8087/web/JalwaTV-135/playlist.m3u8",
     "logo": "https://www.mjunoon.tv/uploads/categories/new/Jalwa-mjunoon.png",
-    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOToxMCBQTSZoYXNoX3ZhbHVlPUMxV0R1VE94bGZReDUrMXZzZW9uM1E9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjQ1IEFNJmhhc2hfdmFsdWU9aXAwSXRjbkE5UVFtY2tvRW5heG1FUT09JnZhbGlkbWludXRlcz0x",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
   },
   {
     "name": "K21 News",
     "link": "https://cdn5.mjunoon.tv:8087/web/K21News-116/playlist.m3u8",
     "logo": "https://www.mjunoon.tv/uploads/categories/new/K-21-news-mjunoon.png",
-    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOToxMSBQTSZoYXNoX3ZhbHVlPWRobnVNNEpTL1pVUmt5c21MZkVQRlE9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjQ2IEFNJmhhc2hfdmFsdWU9ejNzL3doUEJudEgxWnBwOTdZYWNNdz09JnZhbGlkbWludXRlcz0x",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
   },
   {
     "name": "SEE TV",
     "link": "https://cdn5.mjunoon.tv:8087/web/SeeTV-156/playlist.m3u8",
     "logo": "https://www.mjunoon.tv/uploads/categories/new/SEE-Tv-mjunoon.png",
-    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOToxMiBQTSZoYXNoX3ZhbHVlPTNCbnhEUDlISjFCYXFmcjduWmR2Ync9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjQ3IEFNJmhhc2hfdmFsdWU9aEFYNTcvZnN6U3NvRTl6K3NvUE9LZz09JnZhbGlkbWludXRlcz0x",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
   },
   {
     "name": "DW English",
     "link": "https://cdn5.mjunoon.tv:8087/web/DW-136-4A/playlist.m3u8",
     "logo": "https://www.mjunoon.tv/uploads/categories/new/DW-Logo-mjunoon.png",
-    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOToxMyBQTSZoYXNoX3ZhbHVlPVByeGh0dzRYVXlmakdJYXJ6ZE02OUE9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjQ4IEFNJmhhc2hfdmFsdWU9L3VTd3NKT3hsdnViRHBYakI4Y2pwdz09JnZhbGlkbWludXRlcz0x",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
   },
   {
     "name": "AVT Khyber TV",
     "link": "https://cdn5.mjunoon.tv:8087/web/AVTKhyber-114/playlist.m3u8",
     "logo": "https://www.mjunoon.tv/uploads/categories/new/Khaber-mjunoon.png",
-    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOToxNCBQTSZoYXNoX3ZhbHVlPVNOOVQ4dTl1VTlJVytRbkhDZGw4b0E9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjQ5IEFNJmhhc2hfdmFsdWU9Z0haSC9rYmFWcUdFbGJ3TGtDb21xZz09JnZhbGlkbWludXRlcz0x",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
   },
   {
     "name": "Kashish",
     "link": "https://cdn5.mjunoon.tv:8087/web/Kashish-150/playlist.m3u8",
     "logo": "https://www.mjunoon.tv/uploads/categories/new/Kashish-mjunoon.png",
-    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOToxNSBQTSZoYXNoX3ZhbHVlPTVaRXh5cEJrYnl3TnJjazI4RTJHWHc9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjUwIEFNJmhhc2hfdmFsdWU9OWJYbHF2VUtBOVlNNG1CWGtLTC9EQT09JnZhbGlkbWludXRlcz0x",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
   },
   {
     "name": "Khyber News",
     "link": "https://cdn5.mjunoon.tv:8087/web/KhyberNews-160/playlist.m3u8",
     "logo": "https://www.mjunoon.tv/uploads/categories/new/Khabar-news-mjunoon.png",
-    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOToxNiBQTSZoYXNoX3ZhbHVlPXZOUGxBUWtNNjJkUStpS0NyV2I5eHc9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjUxIEFNJmhhc2hfdmFsdWU9RVoya1RuUGUxNGd2dDY3Q1JQdzB5Zz09JnZhbGlkbWludXRlcz0x",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
   },
   {
     "name": "KTN Entertainment",
     "link": "https://cdn5.mjunoon.tv:8087/web/KTN-149/playlist.m3u8",
     "logo": "https://www.mjunoon.tv/uploads/categories/new/KTN-mjunoon.png",
-    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOToxNyBQTSZoYXNoX3ZhbHVlPTBsV2pZVnRabzVaLzhqNTRYa095OWc9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjUyIEFNJmhhc2hfdmFsdWU9U2J5ZnVoOXBZZlpWYzRDZXBjQ3pmUT09JnZhbGlkbWludXRlcz0x",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
   },
   {
     "name": "GNN",
     "link": "https://cdn5.mjunoon.tv:8087/web/gnnnews-181/playlist.m3u8",
     "logo": "https://www.mjunoon.tv/uploads/categories/new/gnn.png\r\n",
-    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOToxOCBQTSZoYXNoX3ZhbHVlPWN4dzJEdTAyaHpQS0lzeWU4Q0xlaUE9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjUzIEFNJmhhc2hfdmFsdWU9Z1V2MllGTkszYzgrMWJ0VXdQQlcyQT09JnZhbGlkbWludXRlcz0x",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
   },
   {
     "name": "Pashto1",
     "link": "https://cdn5.mjunoon.tv:8087/web/PASHTOTV-119/playlist.m3u8",
     "logo": "https://www.mjunoon.tv/uploads/categories/new/Pashto1-mjunoon.png",
-    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOToxOSBQTSZoYXNoX3ZhbHVlPXdxeDVDVnQ5R3FUcHp5V3ZiVURNUlE9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjU0IEFNJmhhc2hfdmFsdWU9Z1RNUTc2aUx4L1I4MEIvVlpxMWNPZz09JnZhbGlkbWludXRlcz0x",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
   },
   {
     "name": "Binoria Media ",
     "link": "https://cdn5.mjunoon.tv:8087/web/brlivetransmit/playlist.m3u8",
     "logo": "https://www.mjunoon.tv/uploads/categories/binoria_media.png",
-    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOToyMCBQTSZoYXNoX3ZhbHVlPVRubXZXQlB1ZG1ZMENmakZNb29lOHc9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjU1IEFNJmhhc2hfdmFsdWU9UFE4ZTFiQTVPWC83LzFycE9HV2t5Zz09JnZhbGlkbWludXRlcz0x",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
   },
   {
     "name": "Apna TV",
     "link": "https://cdn5.mjunoon.tv:8087/web/ApnaChannel-134/playlist.m3u8",
     "logo": "https://www.mjunoon.tv/uploads/categories/new/Apna-mjunoon.png",
-    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOToyMSBQTSZoYXNoX3ZhbHVlPVZJYi9CMHF2eDZDV1JPTHliSXlkSXc9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjU2IEFNJmhhc2hfdmFsdWU9UGw0cnJFY2kraFhKbnhVQVF1TmdvUT09JnZhbGlkbWludXRlcz0x",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
   },
   {
     "name": "Al Jazeera",
     "link": "https://cdn5.mjunoon.tv:8087/web/aljazeera-148/playlist.m3u8",
     "logo": "https://www.mjunoon.tv/uploads/categories/new/aljazeera-mjunoon.png",
-    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOToyMiBQTSZoYXNoX3ZhbHVlPVRyYlpJNkMxQ3lpQ1hRU1NnRGJaY2c9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjU3IEFNJmhhc2hfdmFsdWU9VzVYM0x1MHYxZE52c1YvMDU4UjdvQT09JnZhbGlkbWludXRlcz0x",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
   },
   {
     "name": "Afghan TV",
     "link": "https://cdn5.mjunoon.tv:8087/web/afghantv-154/playlist.m3u8",
     "logo": "https://www.mjunoon.tv/uploads/categories/new/Afghan-mjunoon.png",
-    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOToyMyBQTSZoYXNoX3ZhbHVlPURIQWxrWE14dlJUaUNzU1pNT0NLeFE9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjU4IEFNJmhhc2hfdmFsdWU9akdoOHgwbHNlc0t6VTJ6Z1FxQWlzUT09JnZhbGlkbWludXRlcz0x",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
   },
   {
     "name": "Waseb",
     "link": "https://cdn5.mjunoon.tv:8087/web/WASEB-130/playlist.m3u8",
     "logo": "https://www.mjunoon.tv/uploads/categories/new/Waseb-mjunoon.png",
-    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOToyNCBQTSZoYXNoX3ZhbHVlPVdOTUYvdnYvbk9ybDVWWVpDa1FVV3c9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU3OjU5IEFNJmhhc2hfdmFsdWU9UGdOTVJFVEpERktHbjFiUFBOcnBWQT09JnZhbGlkbWludXRlcz0x",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
   },
   {
     "name": "Kay2 TV",
     "link": "https://cdn5.mjunoon.tv:8087/web/KAY2-127/playlist.m3u8",
     "logo": "https://www.mjunoon.tv/uploads/categories/new/Kay2-mjunoon.png",
-    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOToyNSBQTSZoYXNoX3ZhbHVlPUdkbkpwRk5WWXZ4K3dxTllKWGZIelE9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU4OjAwIEFNJmhhc2hfdmFsdWU9akJtRTRscmtwUk5XZitGQURXVElCQT09JnZhbGlkbWludXRlcz0x",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
   },
   {
     "name": "Animal Planet",
     "link": "https://cdn5.mjunoon.tv:8087/web/Animal-Planet-158-3/playlist.m3u8",
     "logo": "https://www.mjunoon.tv/uploads/categories/new/animal-planet-logo.png",
-    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOToyNiBQTSZoYXNoX3ZhbHVlPXQzWDdnZ3NUSHdYc25oN2FDZ05Bb2c9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU4OjAxIEFNJmhhc2hfdmFsdWU9UFd6dXU5dktjRHFkK05NUklyRCsydz09JnZhbGlkbWludXRlcz0x",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
   },
   {
     "name": "Movie One",
     "link": "https://cdn5.mjunoon.tv:8087/web/movie-one-176/playlist.m3u8",
     "logo": "https://www.mjunoon.tv/uploads/categories/new/movie-one-mjunoon.png",
-    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOToyNyBQTSZoYXNoX3ZhbHVlPWNxRWpoZStFbUd5KzBpNEZ1UXBJQVE9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU4OjAyIEFNJmhhc2hfdmFsdWU9bVpBU3JPMEVuK1FaMElvWmVCeG9XUT09JnZhbGlkbWludXRlcz0x",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
   },
   {
     "name": "Time News",
     "link": "https://cdn5.mjunoon.tv:8087/web/time-news-172/playlist.m3u8",
     "logo": "https://www.mjunoon.tv/uploads/categories/new/times_news-mjunoon.png",
-    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOToyOCBQTSZoYXNoX3ZhbHVlPXpGUHd2NG9oMXIvTDhOc0hsdXNWSVE9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU4OjAzIEFNJmhhc2hfdmFsdWU9Nnl0KzEwaEdpRE1UVWcyRUNDMjdyZz09JnZhbGlkbWludXRlcz0x",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
   },
   {
     "name": "Champion TV",
     "link": "https://cdn5.mjunoon.tv:8087/web/champion-177/playlist.m3u8",
     "logo": "https://www.mjunoon.tv/uploads/categories/new/champion-tv-mjunoon.png",
-    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyNiAxMDowOToyOSBQTSZoYXNoX3ZhbHVlPTZ4YS8yZUZ5eUNOc2IwTnBMTEFldEE9PSZ2YWxpZG1pbnV0ZXM9MQ==",
+    "cookie": "wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjcvMjAyNiAyOjU4OjA0IEFNJmhhc2hfdmFsdWU9Nmk4TWZDbXRhZ1c0WUxadi9hNzViZz09JnZhbGlkbWludXRlcz0x",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
   }
 ]
